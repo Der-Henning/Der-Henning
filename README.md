@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello World 👋
+I am a fullstack software and solution engineer from hamburg
 
-<!--
-**Der-Henning/Der-Henning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## MOPS-Y Search
+Check out my full-text search solution for technical documents
+<br>
 
-Here are some ideas to get you started:
+[<img align="left" alt="MOPS-Y" src="https://img.shields.io/static/v1?style=for-the-badge&message=MOPS-Y&color=47A248&logo=&logoColor=FFFFFF&label=" />](https://github.com/Der-Henning/mopsy-react)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## Connect with me
+[<img align="left" alt="linked-in" src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" />](https://www.linkedin.com/in/henningmerklinger)
+[<img align="left" alt="linked-in" src="https://img.shields.io/static/v1?style=for-the-badge&message=Xing&color=006567&logo=Xing&logoColor=FFFFFF&label=" />](https://www.xing.com/profile/Henning_Merklinger)
+
+<br>
+
+## Expertise
+<img align="left" alt="react" src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=" />
+<img align="left" alt="nodejs" src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=" />
+<img align="left" alt="java" src="https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=" />
+<img align="left" alt="mysql" src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=" />
+<img align="left" alt="mongodb" src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=" />
