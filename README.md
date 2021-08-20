@@ -21,3 +21,6 @@ Check out my full-text search solution for technical documents
 <img align="left" alt="java" src="https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=" />
 <img align="left" alt="mysql" src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=" />
 <img align="left" alt="mongodb" src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=" />
+<img align="left" alt="python" src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=" />
+<img align="left" alt="solr" src="https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Solr&color=D9411E&logo=Apache+Solr&logoColor=FFFFFF&label=" />
+<img align="left" alt="docker" src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=" />
