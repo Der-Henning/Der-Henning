@@ -1,8 +1,8 @@
 ### Hello World 👋
-I am a fullstack software and solution engineer from hamburg
+I am a fullstack software developer and data scientist from Hamburg. Always looking for new and challenging projects!
 
 ## Too Good To Go Scanner
-Check out my solution to never miss a Magic Bag anymore!
+This Tool generates Notifications for your favorite Magic Bags.
 <br>
 
 [<img align="left" alt="TGTG-Scanner" src="https://img.shields.io/static/v1?style=for-the-badge&message=TGTG-Scanner&color=2496ED&logo=&logoColor=FFFFFF&label=" />](https://github.com/Der-Henning/tgtg)
@@ -32,3 +32,4 @@ Check out my full-text search solution for technical documents
 <img align="left" alt="python" src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=" />
 <img align="left" alt="solr" src="https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Solr&color=D9411E&logo=Apache+Solr&logoColor=FFFFFF&label=" />
 <img align="left" alt="docker" src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=" />
+<img align="left" alt="grafana" src="https://img.shields.io/static/v1?style=for-the-badge&message=Grafana&color=F46800&logo=Grafana&logoColor=FFFFFF&label=" />
