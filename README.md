@@ -13,7 +13,7 @@ This Tool generates Notifications for your favorite Magic Bags.
 Check out my full-text search solution for technical documents
 <br>
 
-[<img align="left" alt="MOPS-Y" src="https://img.shields.io/static/v1?style=for-the-badge&message=MOPS-Y Search&color=47A248&logo=&logoColor=FFFFFF&label=" />](https://github.com/Der-Henning/mopsy-react)
+[<img align="left" alt="MOPS-Y" src="https://img.shields.io/static/v1?style=for-the-badge&message=MOPS-Y%20Search&color=47A248&logo=&logoColor=FFFFFF&label=" />](https://github.com/Der-Henning/mopsy-react)
 
 <br>
 
