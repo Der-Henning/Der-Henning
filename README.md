@@ -1,5 +1,5 @@
 # Hello World 👋
-I am a Data Scientist and fullstack Software Developer from Hamburg. Always looking for new and challenging projects!
+I am a Data Scientist and Software Development Hobbyist from Hamburg. Always looking for new and challenging projects!
 
 ## Too Good To Go Scanner
 This Tool generates Notifications for your favorite Magic Bags.
